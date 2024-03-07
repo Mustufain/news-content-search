@@ -1,6 +1,7 @@
 #News Crawler
 
-Scrapy crawler to scrap News Articles. 
+
+Scrapy crawler to Scrap news articles.
 
 # Prerequisites
 
